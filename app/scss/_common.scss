@@ -8,7 +8,7 @@ html {
 
 body {
     /* Margin bottom by footer height */
-    margin-bottom: 60px;
+    margin-bottom: 60rem;
 }
 
 .footer {
@@ -16,24 +16,17 @@ body {
     bottom: 0;
     width: 100%;
     /* Set the fixed height of the footer here */
-    height: 60px;
-    line-height: 60px;
+    height: 60rem;
+    line-height: 60rem;
     /* Vertically center the text there */
     background-color: #f5f5f5;
 }
 
-
-/* Custom page CSS
--------------------------------------------------- */
-
-
-/* Not required for template or sticky footer method. */
-
 body>.container-fluid {
-    padding: 60px 15px 0;
+    padding: 60rem 15rem 0;
 }
 
 .footer>.container-fluid {
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 15rem;
+    padding-left: 15rem;
 }
